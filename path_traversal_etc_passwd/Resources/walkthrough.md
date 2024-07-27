@@ -29,4 +29,4 @@ This URL suggests that the application takes a `page` parameter, which is then u
 
 ## DOC
 
-[Path Traversal](https://owasp.org/www-community/attacks/Path_Traversal)
+- [Path Traversal](https://owasp.org/www-community/attacks/Path_Traversal)
