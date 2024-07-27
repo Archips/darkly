@@ -1,4 +1,4 @@
-# BRUTE FORCE CREDENTIALS
+# Brute Force Credentials
 
 On the page `http://192.168.56.2/index.php?page=signin`, we can signin on the website. There's probably an **admin** user. Let's try to bruteforce the credentials of that user using hydra.
 
